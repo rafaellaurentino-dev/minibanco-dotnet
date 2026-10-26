@@ -54,7 +54,7 @@ $$\text{Percentual (\%)} = \left( \frac{\text{Pontuação Obtida}}{\text{Total d
 ### Como Executar
 1. Clone o repositório público:
    ```bash
-   git clone [https://github.com](https://github.com/rafaellaurentino-dev/minibanco-dotnet.git)
+   git clone https://github.com/rafaellaurentino-dev/minibanco-dotnet.git
    ```
 2. Navegue até a pasta do projeto executável:
    ```bash
@@ -138,7 +138,7 @@ $$\text{Percentage (\%)} = \left( \frac{\text{Earned Score}}{\text{Total Transac
 ### How to Run
 1. Clone the public repository:
    ```bash
-   git clone [https://github.com](https://github.com/rafaellaurentino-dev/minibanco-dotnet.git)
+   git clone https://github.com/rafaellaurentino-dev/minibanco-dotnet.git
    ```
 2. Navigate to the executable project folder:
    ```bash
