@@ -3,7 +3,7 @@
 > **Status do Projeto:** ✅ Concluído (100% Funcional)  
 > **Módulo:** 2 — Semana 07 | Especialização Back-End [.NET] [T2]  
 > **Data de Entrega:** 26/10/2026 até às 22h  
-> **Link da Apresentação em Vídeo:** [Adicione o link do seu Drive/YouTube aqui]  
+> **Link da Apresentação em Vídeo:**  
 
 ---
 
@@ -54,7 +54,7 @@ $$\text{Percentual (\%)} = \left( \frac{\text{Pontuação Obtida}}{\text{Total d
 ### Como Executar
 1. Clone o repositório público:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/rafaellaurentino-dev/minibanco-dotnet.git)
    ```
 2. Navegue até a pasta do projeto executável:
    ```bash
@@ -78,16 +78,6 @@ O sistema é imune a falhas de travamento e encerramento bruto do terminal devid
 *   **`FormatException`**: Captura tentativas de digitação de letras em campos puramente numéricos, emitindo um feedback e repetindo a pergunta sem fechar o console.
 
 ---
----
-
-# 🏦 MiniBanco.ConsoleApp: Bank Account Management Engine
-
-> **Project Status:** ✅ Completed (100% Functional)  
-> **Module:** 2 — Week 07 | Back-End Specialization [.NET] [T2]
-> **Video Presentation Link:**   
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -97,7 +87,7 @@ O sistema é imune a falhas de travamento e encerramento bruto do terminal devid
 > **Project Status:** ✅ Completed (100% Functional)  
 > **Module:** 2 — Week 07 | Back-End Specialization [.NET] [T2]  
 > **Submission Deadline:** 10/26/2026 by 10:00 PM  
-> **Video Presentation Link:** [Add your Drive/YouTube link here]  
+> **Video Presentation Link:**   
 
 ---
 
@@ -148,7 +138,7 @@ $$\text{Percentage (\%)} = \left( \frac{\text{Earned Score}}{\text{Total Transac
 ### How to Run
 1. Clone the public repository:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/rafaellaurentino-dev/minibanco-dotnet.git)
    ```
 2. Navigate to the executable project folder:
    ```bash
@@ -173,9 +163,3 @@ The system is fully immune to crashes and abrupt terminal terminations thanks to
 
 ---
 ---
-
-# 🏦 MiniBanco.ConsoleApp: Bank Account Management Engine
-
-> **Project Status:** ✅ Completed (100% Functional)  
-> **Module:** 2 — Week 07 | Back-End Specialization [.NET] [T2]
-> **Video Presentation Link:**   
