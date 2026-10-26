@@ -3,7 +3,7 @@
 > **Status do Projeto:** ✅ Concluído (100% Funcional)  
 > **Módulo:** 2 — Semana 07 | Especialização Back-End [.NET] [T2]  
 > **Data de Entrega:** 26/10/2026 até às 22h  
-> **Link da Apresentação em Vídeo:**  
+> **Link da Apresentação em Vídeo:**  https://drive.google.com/file/d/1QMDWgIDZt0WqTXCcvjJcCk222pNE68fl/view?usp=drive_link
 
 ---
 
@@ -87,7 +87,7 @@ O sistema é imune a falhas de travamento e encerramento bruto do terminal devid
 > **Project Status:** ✅ Completed (100% Functional)  
 > **Module:** 2 — Week 07 | Back-End Specialization [.NET] [T2]  
 > **Submission Deadline:** 10/26/2026 by 10:00 PM  
-> **Video Presentation Link:**   
+> **Video Presentation Link:**  https://drive.google.com/file/d/1QMDWgIDZt0WqTXCcvjJcCk222pNE68fl/view?usp=drive_link
 
 ---
 
